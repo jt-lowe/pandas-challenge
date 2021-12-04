@@ -1,6 +1,7 @@
 # pandas-challenge
-Week 4 Monash Data Course Homework
+##Week 4 Monash Data Course Homework
 
+###Work was completed in HeroesOfPymoli-JL.ipynb file
 
 We were presented with purchase data for a fantasy game, Heroes of Pymori, and asked to perform some analyses on the dataset.
 
